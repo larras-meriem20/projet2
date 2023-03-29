@@ -251,6 +251,7 @@ align-items: center;
    color:  hsl(232, 10%, 55%);
 }
 .page3 h5{
+    font-family: 'Fraunces', serif;
     margin: 12px 0;
     font-weight: 900;
 }
